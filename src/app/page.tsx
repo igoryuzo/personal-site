@@ -53,7 +53,10 @@ export default function Home() {
       <section className="relative min-h-screen flex flex-col justify-between px-6 md:px-12 lg:px-24 py-8">
         {/* Top nav */}
         <nav className="flex justify-between items-start animate-fade-in" style={{ animationDelay: "0.2s" }}>
-          <div className="font-mono text-xs text-ash tracking-wider">
+          <div className="font-mono text-xs text-ash tracking-wider flex items-center gap-2">
+            <svg width="12" height="12" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M8 20L16 10L24 20" stroke="#c9ff00" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
             PORTFOLIO
           </div>
           <div className="flex gap-6">
