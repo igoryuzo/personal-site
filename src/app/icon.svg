@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" fill="#08080c"/>
+  <!-- Stylized forward slash / arrow representing momentum -->
+  <path d="M20 6L12 26" stroke="#c9ff00" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="22" cy="8" r="2.5" fill="#c9ff00"/>
+</svg>
